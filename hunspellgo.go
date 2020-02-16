@@ -7,7 +7,7 @@ import (
 )
 
 // #cgo linux LDFLAGS: -lhunspell
-// #cgo darwin LDFLAGS: -lhunspell-1.6
+// #cgo darwin LDFLAGS: -lhunspell-1.7
 // #include <stdlib.h>
 // #include <stdio.h>
 // #include <hunspell/hunspell.h>
